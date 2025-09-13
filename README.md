@@ -1,6 +1,6 @@
-# React
+# AidFund - MedChain
 
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
+A modern React-based crowdfunding platform built on Cardano blockchain, utilizing the latest frontend technologies and tools for building responsive web applications.
 
 ## 🚀 Features
 
@@ -13,6 +13,7 @@ A modern React-based project utilizing the latest frontend technologies and tool
 - **Form Management** - React Hook Form for efficient form handling
 - **Animation** - Framer Motion for smooth UI animations
 - **Testing** - Jest and React Testing Library setup
+- **Cardano Integration** - Blockchain-based crowdfunding platform
 
 ## 📋 Prerequisites
 
@@ -38,7 +39,7 @@ A modern React-based project utilizing the latest frontend technologies and tool
 ## 📁 Project Structure
 
 ```
-react_app/
+medchain/
 ├── public/             # Static assets
 ├── src/
 │   ├── components/     # Reusable UI components
@@ -89,7 +90,6 @@ This project uses Tailwind CSS for styling. The configuration includes:
 
 The app is built with responsive design using Tailwind CSS breakpoints.
 
-
 ## 📦 Deployment
 
 Build the application for production:
@@ -103,5 +103,6 @@ npm run build
 - Built with [Rocket.new](https://rocket.new)
 - Powered by React and Vite
 - Styled with Tailwind CSS
+- Blockchain integration with Cardano
 
 Built with ❤️ on Rocket.new
